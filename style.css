@@ -30,3 +30,47 @@ h6{
     font-weight: : inherit;
     font-size: inherit;
 }
+.page-header{
+    display: flex;
+    max-width: 130px;
+    margin: 0 auto;
+}
+.menu-link{
+    font-weight: 400px;
+    font-size: 16px;
+}
+.header-logo{
+    margin-top: 19px;
+    margin-right: 89px;
+}
+.menu-item:not("last-child"){
+    margin-right: 26px;
+}
+.prev-title {
+    font-size: 50p;
+    line-height: 62px;
+    max-width: 534px;
+    margin-bottom: 24px;
+}
+.prev-text{
+    max-width: 493px;
+    margin-bottom: 50px;
+}
+.link{
+    padding-bottom: 168px;
+}
+.prev-link{
+    font-weight: 500;
+    font-size: 20px;
+    padding: 25px 68px;
+    background-color: #CC8B86;
+    color: #533738;
+}
+.page-prev{
+    margin-left:185px                                                                                                           
+}
+.about-conteiner
+
+
+
+
